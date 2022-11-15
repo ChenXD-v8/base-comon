@@ -14,5 +14,5 @@
  + 用redis操作方法setIfAbsent 设置过期时间
     
     
-
-
+#### 四。Http请求通用类 
+ + 基于 Hutool工具实现
